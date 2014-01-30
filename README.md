@@ -3,16 +3,16 @@ get-a-robot-vpnc
 
 This is the first release of an installable package to allow google android phones to connect to Cisco like VPN concentrators.
 
-== Details
+Details
 
 The installing phone will require:
 
 Cyanogen, JesusFreke? or ROM with root and tun support.
 A cisco, nortel or freeswan IPSEC server to connect to.
 
-== How To
+How To
 
-=== Installing this version
+Installing this version
 
 This is available in the android market as a free application as the name VPN Connections.
 
@@ -24,7 +24,7 @@ You should do this before the first launch after boot. You will not need to crea
 
 If you need to do this, please see the troubleshooting section below to report this issue so it can be loaded for this version of the ROM in future releases.
 
-== Reporting bugs
+Reporting bugs
 
 Please inform us which ROM and version that you are using, if the /dev/tun exists, its permissions, and the output of logcat from a boot, also the version of this application that you are running.
 
@@ -34,7 +34,7 @@ Please be very careful when lodging a bug as it may contain company confidential
 
 http://code.google.com/p/get-a-robot-vpnc/issues/list
 
-== Known issues
+Known issues
 
 Usernames can not contain the @ symbol. Does not currently work with one time pass devices (Rsa keys).
 
