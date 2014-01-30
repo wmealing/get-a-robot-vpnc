@@ -32,7 +32,7 @@ If your ROM and version are already reported in the issue list, please comment i
 
 Please be very careful when lodging a bug as it may contain company confidential information. Be sure to strip any secrets or passwords from the configuration files or debugging information.
 
-http://code.google.com/p/get-a-robot-vpnc/issues/list
+https://github.com/wmealing/get-a-robot-vpnc
 
 Known issues
 
